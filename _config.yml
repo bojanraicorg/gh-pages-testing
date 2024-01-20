@@ -1,4 +1,7 @@
 include:
-  - "README"
-  - "docs/"
-  - "github-mark.png"
+  - README
+  - docs/
+  - github-mark.png
+exclude:
+  - src/
+  - stuff/
