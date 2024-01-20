@@ -1,0 +1,4 @@
+include:
+  - "README"
+  - "docs/"
+  - "github-mark.png"
